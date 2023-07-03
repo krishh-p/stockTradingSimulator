@@ -1,0 +1,42 @@
+{"users": [
+    {
+        "password": "345",
+        "last": "Patel",
+        "balance": 10000,
+        "first": "Krish",
+        "stocks": [],
+        "username": "kpatel"
+    },
+    {
+        "password": "3232",
+        "last": "user",
+        "balance": 10000,
+        "first": "test",
+        "stocks": [],
+        "username": "testuser"
+    },
+    {
+        "password": "rcuu",
+        "last": "Vohl",
+        "balance": 5943.48775,
+        "first": "Mika",
+        "stocks": [
+            {"NVDA": 4},
+            {"QQQ": 5},
+            {"AMD": 2},
+            {"GOOG": 2}
+        ],
+        "username": "mvohl"
+    },
+    {
+        "password": "3223",
+        "last": "Chong",
+        "balance": 7962.471299999999,
+        "first": "Jeremy",
+        "stocks": [
+            {"AAPL": 5},
+            {"QQQ": 3}
+        ],
+        "username": "jchong"
+    }
+]}
